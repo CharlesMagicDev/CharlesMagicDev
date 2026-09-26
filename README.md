@@ -37,7 +37,7 @@ d'exécution reste la même :
 | **Click&Liv** | Click and collect de proximité — [clickliv.fr](https://www.clickliv.fr/) : catalogue, commandes, suivi de livraison. |
 | **Kenly** | Broderie personnalisée — [kenly.fr](https://kenly.fr/) : studio de mockup en ligne, fichier machine `.DST` généré automatiquement, catalogue de vêtements, devis et expédition en France. Application lancée pour une brodeuse (atelier d'Avignon). |
 | **Subterra** | Jeu HTML5 Canvas complet : gameplay fluide sur téléphone, animations, tableau de scores. |
-| **Langar** | Boutique en ligne (dropshipping et affiliation) : catalogue, panier, paiement, back-office. |
+| **Langar** | Matériel de survie et d'autonomie — [langar.fr](https://langar.fr/) : boutique en ligne (sacs d'évacuation 72 h, filtration d'eau, énergie solaire, radios LoRa et mesh), catalogue multilingue, panier et back-office. |
 | **n8n-nodes-magic-dev** | Nœuds n8n personnalisés — [package npm](https://www.npmjs.com/package/n8n-nodes-magic-dev). |
 | **langchain-sheetbase** | Intégration LangChain pour Google Sheets — piloter une base documentaire sans API Google. |
 

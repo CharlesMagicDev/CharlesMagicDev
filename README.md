@@ -4,6 +4,10 @@ Développeur web et consultant IA, basé à Montpellier. Je conçois et je mets 
 applications web complètes — du prototype déployé en quelques jours à la plateforme qui tourne
 avec ses utilisateurs.
 
+Je viens des **travaux publics** avant d'écrire du code, et j'en ai gardé la méthode : on coule les
+fondations avant de poser les finitions, on tient le planning, et un ouvrage n'est livré que
+lorsqu'il tient debout. C'est exactement comme ça que je construis un site.
+
 ## Ce que je fais
 
 - **Applications web** : React, Vite, Next.js, PWA installables, temps réel, mode hors ligne.
@@ -11,13 +15,26 @@ avec ses utilisateurs.
 - **Intégration IA** : agents autonomes, génération d'assets, automatisations (n8n, LangChain).
 - **Conseil et formation IA** en entreprise — Activateur France Num (Osez l'IA).
 
+## Du chantier au code
+
+Quinze ans de travaux publics, puis le développement web. Le vocabulaire change, la mécanique
+d'exécution reste la même :
+
+- **On prépare le terrain** avant de coder : besoin, plan, ce qui est livré et quand.
+- **Un ordre de pose** : fondations (données, sécurité, droits) puis second œuvre (interface),
+  jamais l'inverse.
+- **On mesure** : ce qui n'est pas vérifié n'est pas construit — chaque fonctionnalité est contrôlée
+  en conditions réelles avant d'être annoncée comme terminée.
+- **Ça tient dans le temps** : un chantier livré demande un entretien (surveillance, sauvegardes,
+  correctifs), sinon il se dégrade.
+
 ## Projets
 
 | Projet | Description |
 |:--- |:--- |
 | **MMAX** | Réseau social centré sur le MMA — [mmax.social](https://mmax.social) : fil temps réel, groupes par ville, MMAX TV, arène de défis, marketplace, notifications push. React, Appwrite, PWA. |
 | **Agent-ai.shop** | Développement web et conseil IA en portage salarial : sites vitrines, boutiques, automatisations et agents. [agent-ai.shop](https://agent-ai.shop) |
-| **Click&Liv** | Click and collect de proximité : catalogue, commandes, suivi de livraison. |
+| **Click&Liv** | Click and collect de proximité — [clickliv.fr](https://www.clickliv.fr/) : catalogue, commandes, suivi de livraison. |
 | **Subterra** | Jeu HTML5 Canvas complet : gameplay fluide sur téléphone, animations, tableau de scores. |
 | **Langar** | Boutique en ligne (dropshipping et affiliation) : catalogue, panier, paiement, back-office. |
 | **n8n-nodes-magic-dev** | Nœuds n8n personnalisés — [package npm](https://www.npmjs.com/package/n8n-nodes-magic-dev). |

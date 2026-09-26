@@ -16,7 +16,7 @@ avec ses utilisateurs.
 | Projet | Description |
 | --- | --- |
 | **MMAX** — [mmax.social](https://mmax.social) | Réseau social centré sur le MMA : fil temps réel, groupes par ville, MMAX TV, arène de défis, marketplace, notifications push. React, Appwrite, PWA. |
-| **Agent-ai.shop** — [agent-ai.shop](https://agent-ai.shop) | Développement web et conseil IA en portage salarial : sites vitrines, boutiques, automatisations et agents. |
+| **Agent-ai.shop** | Développement web et conseil IA en portage salarial : sites vitrines, boutiques, automatisations et agents. [agent-ai.shop](https://agent-ai.shop) |
 | **Click&Liv** | Click and collect de proximité : catalogue, commandes, suivi de livraison. |
 | **Subterra** | Jeu HTML5 Canvas complet : gameplay fluide sur téléphone, animations, tableau de scores. |
 | **Langar** | Boutique en ligne (dropshipping et affiliation) : catalogue, panier, paiement, back-office. |
@@ -25,8 +25,17 @@ avec ses utilisateurs.
 
 ## Outils du quotidien
 
-JavaScript · TypeScript · React · Next.js · Vite · Tailwind CSS · Node.js · Python
-Canvas / WebGL · GSAP · Appwrite · n8n · LangChain · Cloudflare · Netlify · Playwright
+- **Front** : JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS
+- **Jeu et animation** : HTML5 Canvas, WebGL, GSAP
+- **Back et services** : Node.js, Python, Appwrite, Cloudflare, Netlify, n8n, LangChain
+- **Qualité** : Playwright, tests automatisés, surveillance des sites en production
+
+## En ce moment
+
+Je fais vivre **MMAX**, un réseau social pour le MMA : mur de groupes, MMAX TV, arène de défis,
+messagerie, notification push et un back-office de modération — le tout en PWA, pensé pour le
+téléphone d'abord. Le développement est mené avec des agents IA, que j'orchestre au quotidien :
+c'est aussi le sujet de mes missions de conseil.
 
 ## Me contacter
 

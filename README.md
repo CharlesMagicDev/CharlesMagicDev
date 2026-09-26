@@ -35,6 +35,7 @@ d'exécution reste la même :
 | **MMAX** | Réseau social centré sur le MMA — [mmax.social](https://mmax.social) : fil temps réel, groupes par ville, MMAX TV, arène de défis, marketplace, notifications push. React, Appwrite, PWA. |
 | **Agent-ai.shop** | Développement web et conseil IA en portage salarial : sites vitrines, boutiques, automatisations et agents. [agent-ai.shop](https://agent-ai.shop) |
 | **Click&Liv** | Click and collect de proximité — [clickliv.fr](https://www.clickliv.fr/) : catalogue, commandes, suivi de livraison. |
+| **Kenly** | Broderie personnalisée — [kenly.fr](https://kenly.fr/) : studio de mockup en ligne, fichier machine `.DST` généré automatiquement, catalogue de vêtements, devis et expédition en France. Application lancée pour une brodeuse (atelier d'Avignon). |
 | **Subterra** | Jeu HTML5 Canvas complet : gameplay fluide sur téléphone, animations, tableau de scores. |
 | **Langar** | Boutique en ligne (dropshipping et affiliation) : catalogue, panier, paiement, back-office. |
 | **n8n-nodes-magic-dev** | Nœuds n8n personnalisés — [package npm](https://www.npmjs.com/package/n8n-nodes-magic-dev). |

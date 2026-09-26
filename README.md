@@ -14,13 +14,13 @@ avec ses utilisateurs.
 ## Projets
 
 | Projet | Description |
-| --- | --- |
-| **MMAX** — [mmax.social](https://mmax.social) | Réseau social centré sur le MMA : fil temps réel, groupes par ville, MMAX TV, arène de défis, marketplace, notifications push. React, Appwrite, PWA. |
+|:--- |:--- |
+| **MMAX** | Réseau social centré sur le MMA — [mmax.social](https://mmax.social) : fil temps réel, groupes par ville, MMAX TV, arène de défis, marketplace, notifications push. React, Appwrite, PWA. |
 | **Agent-ai.shop** | Développement web et conseil IA en portage salarial : sites vitrines, boutiques, automatisations et agents. [agent-ai.shop](https://agent-ai.shop) |
 | **Click&Liv** | Click and collect de proximité : catalogue, commandes, suivi de livraison. |
 | **Subterra** | Jeu HTML5 Canvas complet : gameplay fluide sur téléphone, animations, tableau de scores. |
 | **Langar** | Boutique en ligne (dropshipping et affiliation) : catalogue, panier, paiement, back-office. |
-| **n8n-nodes-magic-dev** | [Package npm](https://www.npmjs.com/package/n8n-nodes-magic-dev) de nœuds n8n personnalisés. |
+| **n8n-nodes-magic-dev** | Nœuds n8n personnalisés — [package npm](https://www.npmjs.com/package/n8n-nodes-magic-dev). |
 | **langchain-sheetbase** | Intégration LangChain pour Google Sheets — piloter une base documentaire sans API Google. |
 
 ## Outils du quotidien

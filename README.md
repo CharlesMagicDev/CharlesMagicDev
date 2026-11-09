@@ -14,7 +14,7 @@ lorsqu'il tient debout. C'est exactement comme ça que je construis un site.
 
 - **Applications web** : React, Vite, Next.js, PWA installables, temps réel, mode hors ligne.
 - **Jeux et animations** : HTML5 Canvas, animation d'interface, jeux solo complets.
-- **Intégration IA** : agents autonomes, génération d'assets, automatisations (n8n, LangChain).
+- **Intégration IA & IoT** : agents autonomes, systèmes embarqués communicants, automatisations (n8n, LangChain).
 - **Conseil et formation IA** en entreprise — Activateur France Num (Osez l'IA).
 
 ## Du chantier au code
@@ -25,7 +25,7 @@ d'exécution reste la même :
 - **On prépare le terrain** avant de coder : besoin, plan, ce qui est livré et quand.
 - **Un ordre de pose** : fondations (données, sécurité, droits) puis second œuvre (interface),
   jamais l'inverse.
-- **On mesure** : ce qui n'est pas vérifié n'est pas construit — chaque fonctionnalité est contrôlée
+- **On mesure** : ce qui n'est pas vérifié n'est pas construit — chaque fonctionnalité est controlled
   en conditions réelles avant d'être annoncée comme terminée.
 - **Ça tient dans le temps** : un chantier livré demande un entretien (surveillance, sauvegardes,
   correctifs), sinon il se dégrade.
@@ -36,6 +36,7 @@ d'exécution reste la même :
 |:--- |:--- |
 | **MMAX** | Réseau social centré sur le MMA — [mmax.social](https://mmax.social) : fil temps réel, groupes par ville, MMAX TV, arène de défis, marketplace, notifications push. React, Appwrite, PWA. |
 | **Agent-ai.shop** | Développement web et conseil IA en portage salarial : sites vitrines, boutiques, automatisations et agents. [agent-ai.shop](https://agent-ai.shop) |
+| **Rampardo** | Système résilient de détection et prévention anti-incendie : réseau embarqué basé sur ESP32, transmission d'alertes et monitoring d'urgence. |
 | **Click&Liv** | Click and collect de proximité — [clickliv.fr](https://www.clickliv.fr/) : catalogue, commandes, suivi de livraison. |
 | **Kenly** | Broderie personnalisée — [kenly.fr](https://kenly.fr/) : studio de mockup en ligne, fichier machine `.DST` généré automatiquement, catalogue de vêtements, devis et expédition en France. Application lancée pour une brodeuse (atelier d'Avignon). |
 | **Subterra** | Jeu HTML5 Canvas complet : gameplay fluide sur téléphone, animations, tableau de scores. |
@@ -47,7 +48,7 @@ d'exécution reste la même :
 
 - **Front** : JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS
 - **Jeu et animation** : HTML5 Canvas, WebGL, GSAP
-- **Back et services** : Node.js, Python, Appwrite, Cloudflare, Netlify, n8n, LangChain
+- **Back, IoT & Services** : Node.js, Python, ESP32, C/C++, Appwrite, Cloudflare, Netlify, n8n, LangChain
 - **Qualité** : Playwright, tests automatisés, surveillance des sites en production
 
 ## En ce moment

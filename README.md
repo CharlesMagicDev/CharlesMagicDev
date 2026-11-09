@@ -1,5 +1,7 @@
 # Charles Lepoittevin
 
+<img src="assets/france-num-activateur.png" width="104" align="right" alt="Activateur France Num — programme Osez l'IA">
+
 Développeur web et consultant IA, basé à Montpellier. Je conçois et je mets en production des
 applications web complètes — du prototype déployé en quelques jours à la plateforme qui tourne
 avec ses utilisateurs.
